@@ -8,4 +8,4 @@
 **About me!**
 
 - 👀 I’m interested in **coding** and **movies**
-- 🌱 I’m currently learning **front-end web development**
+- 🌱 I’m learning ...
