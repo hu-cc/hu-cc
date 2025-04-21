@@ -12,4 +12,4 @@
 
 :green_book: **数据库**：MySQL、Redis
 
-:notebook: **其他**：Linux、Docker（一点点），Emacs/Vim（还是IDE+Vi香:grin:）
+:notebook: **其他**：Linux、Docker（一点点），Emacs/Vim（还是IDE+Vi香🤣
